@@ -1,7 +1,7 @@
 // app/performance/page.tsx
 'use client';
 import React from 'react';
-import PerformanceChart from '../../components/charts/PerformanceChart';
+import PerformanceChart from '../components/charts/PerformanceChart';
 
 export default function PerformancePage() {
   const labels = ['2025-10-14','2025-10-15','2025-10-16','2025-10-17','2025-10-18'];
